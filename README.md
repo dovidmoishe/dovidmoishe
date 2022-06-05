@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dovidmoishe
-- 👀 I’m interested in Web develpment and Programming
-- 🌱 I’m currently learning more css and data structures
+- 👀 I’m interested in Web develOpment and BlockChain development
+- 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on web dev projects
-- 📫 How to reach me @thekideveloper on instagram
+- 📫 Contact me on ozerlihashem@gmail.com 
 
 <!---
 dovidmoishe/dovidmoishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
