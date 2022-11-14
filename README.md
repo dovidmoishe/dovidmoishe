@@ -9,9 +9,13 @@ dovidmoishe/dovidmoishe is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://komarev.com/ghpvc/?username=dovidmoishe&color=red)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=highcontrast&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31flu575tu3jnotzcvclzfsuqsxa&count={count})
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thekideveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/thekideveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/thekideveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" style="color: white;" /></a>
+<a href="https://instagram.com/thekideveloper" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" style="color: white;" /></a>
 </p>
