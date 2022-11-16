@@ -10,13 +10,12 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://github-readme-stats.vercel.app/api?username=dovidmoishe&theme=tokyonight&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovidmoishe&theme=tokyonight&layout=compact)](https://github.com/Chamepp/Chamepp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovidmoishe&theme=tokyonight&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=dovidmoishe&color=red)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=highcontrast&hide_border=true&border_radius=8)](https://git.io/streak-stats)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31flu575tu3jnotzcvclzfsuqsxa&count=5)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
