@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dovidmoishe
 - 👀 I’m a full-stack web developer
-- 🌱 I’m currently learning solidity 
+- 🌱 I’m currently learning NextJS, TypeScript, and Solidity 
 - 💞️ I’m trying my best to contribute to open-source projects
 - 📫 Contact me at ozerlihashem@gmail.com 
 
@@ -19,5 +19,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://twitter.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
 <a href="https://instagram.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a>
+<a href="https://hashnode.com/@thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
-Icons by freepik
+Icons by Icons8
