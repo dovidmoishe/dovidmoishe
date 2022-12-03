@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @dovidmoishe
-- 👀 I’m a full-stack web developer
-- 🌱 I’m currently learning NextJS, TypeScript, and Solidity 
-- 💞️ I’m trying my best to contribute to open-source projects
-- 📫 Contact me at ozerlihashem@gmail.com 
+<div align="center">
+  <h1> Hi there👋! I'm David from 🇳🇬</h1>
+  <br>
+  <h1> I'm a full-stack developer, welcome to my github</h1>
+</div>
 
-<!---
-dovidmoishe/dovidmoishe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 👨‍💻 About Me :
+
+- :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer and solidity developer
+
+- :seedling: I'm currently learning Solidity, NextJS, TypeScript
+
+- :zap: In my free time, I read tech articles, write tech articles and scroll through Github 😁
+
+- :mailbox: Contact me at ozerlihashem@gmail.com
+
 ![](https://github-readme-stats.vercel.app/api?username=dovidmoishe&theme=tokyonight&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovidmoishe&theme=tokyonight&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=dovidmoishe&color=red)
@@ -21,4 +29,3 @@ You can click the Preview link to take a look at your changes.
 <a href="https://instagram.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a>
 <a href="https://hashnode.com/@thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
 </p>
-Icons by Icons8
