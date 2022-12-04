@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Hi there👋! I'm David from 🇳🇬</h1>
   <br>
-  ![Twitter header - 1](https://user-images.githubusercontent.com/94927979/205487004-12f0708c-e057-46c1-8009-1ea911ac4969.png)
+  <img src="https://user-images.githubusercontent.com/94927979/205487004-12f0708c-e057-46c1-8009-1ea911ac4969.png" />
   <h1> I'm a full-stack developer, welcome to my Github</h1>
 </div>
 
