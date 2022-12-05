@@ -47,10 +47,11 @@
 
 ### :fire: My Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=dovidmoishe&theme=tokyonight&show_icons=true) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dovidmoishe&theme=tokyonight&layout=compact)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=highcontrast&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-
+<p align="flex-start">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dovidmoishe&theme=github_dark" width=345>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dovidmoishe&theme=github_dark" width=345>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=github_dark&hide_border=true&border_radius=8" width=345>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
