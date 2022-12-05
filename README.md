@@ -50,9 +50,8 @@
 <p align="flex-start">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dovidmoishe&theme=github_dark" width=345>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dovidmoishe&theme=github_dark" width=345>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=github_dark&hide_border=true&border_radius=8" width=345>
 </p>
-
+[Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=github_dark&hide_border=true&border_radius=8)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
