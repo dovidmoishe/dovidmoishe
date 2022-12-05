@@ -2,6 +2,7 @@
   <h1> Hi there👋! I'm David from 🇳🇬</h1>
   <br>
   <img src="https://user-images.githubusercontent.com/94927979/205487004-12f0708c-e057-46c1-8009-1ea911ac4969.png" />
+  ![](https://komarev.com/ghpvc/?username=dovidmoishe&style=for-the-badge)
   <h1> I'm a full-stack developer, welcome to my Github</h1>
 </div>
 
@@ -51,7 +52,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dovidmoishe&theme=github_dark" width=345>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dovidmoishe&theme=github_dark" width=345>
 </p>
-[Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=github_dark&hide_border=true&border_radius=8)
+![Github Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=github_dark&hide_border=true&border_radius=8)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
