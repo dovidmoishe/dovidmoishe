@@ -39,10 +39,8 @@
 </div>
 
 ### 🛠️ Languages and tools I'm learning
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"  title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"  title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-</div>
+
+
 
 ---
 
