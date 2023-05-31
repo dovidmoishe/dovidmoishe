@@ -13,7 +13,7 @@
 
 - :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer and solidity developer
 
-- :seedling: I'm currently learning Solidity, NextJS, TypeScript
+- :seedling: I'm currently learning AI, and Embedded systems developme
 
 - :zap: In my free time, I read tech articles, write tech articles and scroll through Github 😁
 
