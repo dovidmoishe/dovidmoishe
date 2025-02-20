@@ -3,19 +3,22 @@
   <br>
   <img src="https://user-images.githubusercontent.com/94927979/205487004-12f0708c-e057-46c1-8009-1ea911ac4969.png" />
   
-  ![](https://komarev.com/ghpvc/?username=dovidmoishe&style=for-the-badge)
-  <h1> I'm a full-stack developer, welcome to my Github</h1>
+ ---![Be Yourself  (1)](https://github.com/user-attachments/assets/eec44853-0240-4fdd-8080-a370fd01e922)
+  <h1>Software Engineer 👨‍💻
+Building cool things with AI, Web3, and NextJS🚀
+Product of God's grace 🙏</h1>
 </div>
 
----
+
+
 
 ### 👨‍💻 About Me :
 
 - :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer and solidity developer
 
-- :seedling: I'm currently learning AI, and Embedded systems developme
+- :seedling: I'm currently learning AI, and Embedded systems development
 
-- :zap: In my free time, I read tech articles, write tech articles and scroll through Github 😁
+- :zap: In my free time, I read tech articles, write tech articles, and scroll through Github 😁
 
 - :mailbox: Contact me at ozerlihashem@gmail.com
 
