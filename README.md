@@ -1,63 +1,65 @@
-<div align="center">
-  <h1> Hi there👋! I'm David from 🇳🇬</h1>
-  <br>
-  <img src="https://user-images.githubusercontent.com/94927979/205487004-12f0708c-e057-46c1-8009-1ea911ac4969.png" />
-  
+
  ---![Be Yourself  (1)](https://github.com/user-attachments/assets/eec44853-0240-4fdd-8080-a370fd01e922)
-  <h1>Software Engineer 👨‍💻
-Building cool things with AI, Web3, and NextJS🚀
-Product of God's grace 🙏</h1>
-</div>
-
-
-
-
-### 👨‍💻 About Me :
-
-- :telescope: I’m currently working on various projects to help improve my skills as a full-stack developer and solidity developer
-
-- :seedling: I'm currently learning AI, and Embedded systems development
-
-- :zap: In my free time, I read tech articles, write tech articles, and scroll through Github 😁
-
-- :mailbox: Contact me at ozerlihashem@gmail.com
-
----
-
-### 🛠️ My Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="40" height="40" alt="Express" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="40" height="40" alt="MetaMask" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" width="40" height="40" alt="Solidity" />
   
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is David Baiye and I'm a Software Engineer from Nigeria</p>
+
+ ---![Be Yourself  (1)](https://github.com/user-attachments/assets/eec44853-0240-4fdd-8080-a370fd01e922)
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Rust for Solana dev<br>🎯 Goals: Building successful start-ups and helping millions of people around the world to grow in every area in life<br>🎲 Fun fact: I'm also an undergrad Comp Sci and a content creator ✝</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-### 🛠️ Languages and tools I'm learning
-
-
-
----
-
-### :fire: My Stats :
-
-<p align="flex-start">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dovidmoishe&theme=github_dark" width=345>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dovidmoishe&theme=github_dark" width=345>
-</p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dovidmoishe&theme=highcontrast&hide_border=true&border_radius=8)](https://git.io/streak-stats)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-<a href="https://instagram.com/thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/instagram-new--v1.png"/></a>
-<a href="https://hashnode.com/@thekideveloper" target="blank"><img src="https://img.icons8.com/color/48/null/hashnode.png"/></a>
-</p>
+###
