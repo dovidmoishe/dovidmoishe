@@ -1,6 +1,4 @@
 
- ---![Be Yourself  (1)](https://github.com/user-attachments/assets/eec44853-0240-4fdd-8080-a370fd01e922)
-  
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
