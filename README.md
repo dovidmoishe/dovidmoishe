@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsdavetech" target="blank"><img src="https://img.shields.io/twitter/follow/itsdavetech?logo=twitter&style=for-the-badge" alt="itsdavetech" /></a> </p>
 
-- 🔭 I’m currently working on [EduLearn](http://edulearnsol.vercel.app/)
+- 🔭 I’m currently working on [EduLearn](http://edulearn.fun/)
 
 - 🌱 I’m currently learning **Rust, Anchor, Actix**
 
