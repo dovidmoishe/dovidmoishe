@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.itsdave.tech/](https://www.itsdave.tech/)
 
-- 💬 Ask me about **NextJS, TypeScript**
+- 💬 Ask me about **NestJS, React Native, NextJS, TypeScript**
 
 - 📫 How to reach me **ozerlihashem@gmail.com**
 
