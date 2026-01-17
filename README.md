@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [EduLearn](http://edulearn.fun/)
 
-- 🌱 I’m currently learning **Rust, Anchor, Actix**
+- 🌱 I’m currently learning **Rust, Golang**
 
 - 👯 I’m looking to collaborate on **Web3 and AI projects**
 
